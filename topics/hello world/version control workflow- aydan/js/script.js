@@ -60,6 +60,6 @@ function draw() {
     // Make it blue (RGB)
     fill(0, 0, 255);
     // Draw a 100x100 circle at the mouse position
-    ellipse(mouseX, mouseY, 200, 100);
+    ellipse(mouseX, mouseY, 300, 100);
     pop();
 }
